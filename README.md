@@ -1,6 +1,6 @@
 ## Hi there, I'm Alessandro
 
-- 🎓 MS in Computer Science (HPC) at Boston University, finishing Dec 2026
+- 🎓 MS in Computer Science (HPC) at Boston University (finishing Dec 2026), Bachelor's in Computer Science at NYU '24
 - ⚡ Into GPU programming, hardware acceleration, and fast AI inference
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-landi-007638210/) 
 
