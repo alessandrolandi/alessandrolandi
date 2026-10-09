@@ -3,7 +3,7 @@
 - 🎓 MS in Computer Science (HPC) at Boston University (Dec '26), BA in Computer Science at New York University '24
 - ⚡ Into GPU programming, hardware acceleration, and fast AI inference
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-landi-007638210/) 
-- ✨ My [project portfolio](https://alessandrolandi.github.io/) 
+- 😄 My [project portfolio](https://alessandrolandi.github.io/) 
 <!--
 **alessandrolandi/alessandrolandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
